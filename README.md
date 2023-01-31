@@ -7,4 +7,5 @@ public class Welcome{
   }
 }
 ```
-***This repository contains the***
+* This repository contains the simple code instructed by out trainer.
+* This repository contains the code of JSP, Servlet, JDBC, SQL and other topics.
